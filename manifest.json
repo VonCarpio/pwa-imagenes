@@ -1,0 +1,22 @@
+{
+    "name": "Galería de Fotos",
+    "short_name": "Galería",
+    "description": "JSONPlaceholder.",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#darkkhaki",
+    "icons": [
+      {
+        "src": "icon-150x150.png",
+        "sizes": "150x150",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-600x600.png",
+        "sizes": "600x600",
+        "type": "image/png"
+      }
+    ]
+  }
+  
