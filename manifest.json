@@ -1,20 +1,20 @@
 {
     "name": "Galería de Fotos",
     "short_name": "Galería",
-    "description": "JSONPlaceholder.",
+    "description": "Descripcion de JSONPlaceholder.",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#darkkhaki",
+    "theme_color": "#BDB76B",
     "icons": [
       {
-        "src": "icon-150x150.png",
-        "sizes": "150x150",
+        "src": "icon-192x192.png",
+        "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "icon-600x600.png",
-        "sizes": "600x600",
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]
